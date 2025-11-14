@@ -1,0 +1,20 @@
+# Banco de dados SQLite
+*.db
+*.sqlite3
+
+# Pasta do ambiente virtual
+.venv/
+venv/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos de build
+dist/
+build/
